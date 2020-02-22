@@ -5,7 +5,7 @@
 CodePath: Introduction to Android Studio, Just asking question and manipulating decisions
 
 
-<img src="https://media.giphy.com/media/kboZHr3O0cu7bg5Yp3/giphy.gif><br>
+<img src="https://media.giphy.com/media/kboZHr3O0cu7bg5Yp3/giphy.gif"><br>
 
 
 ## Required
